@@ -1,0 +1,7 @@
+#hiderow,
+.delete {
+  display: none;
+}
+.btn{
+  visibility: hidden;
+}
